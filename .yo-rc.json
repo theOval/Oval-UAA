@@ -1,0 +1,37 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "org.oval"
+    },
+    "jhipsterVersion": "6.8.0",
+    "applicationType": "uaa",
+    "baseName": "UAA",
+    "packageName": "org.oval",
+    "packageFolder": "org/oval",
+    "serverPort": "9999",
+    "authenticationType": "uaa",
+    "cacheProvider": "hazelcast",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "NjZhZjA2NGYwOGUxYmUxMGZkMDRiYzk1ODViMWUzZjhhMzJhODY5M2FjYjM0NzBlMmQzYjJiYmUxMTUxZjlmZWQxMjUwYzg4YjgzYTE4MjJhNDNiZTRjMzliZTZiY2M3ZDdhNGI3ZmU3ZDA0N2I2YTFlZjZhZGMxMDcxYTAyYmE=",
+    "embeddableLaunchScript": false,
+    "creationTimestamp": 1587628711173,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "clientPackageManager": "npm",
+    "blueprints": [],
+    "skipClient": true
+  }
+}
