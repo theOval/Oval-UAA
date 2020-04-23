@@ -1,3 +1,19 @@
+[![Quality gate](https://sonarcloud.io/api/project_badges/quality_gate?project=theOval_Oval-UAA)](https://sonarcloud.io/dashboard?id=theOval_Oval-UAA)
+[![SonarCloud](https://sonarcloud.io/images/project_badges/sonarcloud-orange.svg)](https://sonarcloud.io/dashboard?id=theOval_Oval-UAA)
+
+[![Build Status](https://travis-ci.com/theOval/Oval-UAA.svg?branch=master)](https://travis-ci.com/theOval/Oval-UAA)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=theOval_Oval-UAA&metric=alert_status)](https://sonarcloud.io/dashboard?id=theOval_Oval-UAA)
+[![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=theOval_Oval-UAA&metric=reliability_rating)](https://sonarcloud.io/dashboard?id=theOval_Oval-UAA)
+[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=theOval_Oval-UAA&metric=sqale_rating)](https://sonarcloud.io/dashboard?id=theOval_Oval-UAA)
+[![Coverage](https://sonarcloud.io/api/project_badges/measure?project=theOval_Oval-UAA&metric=coverage)](https://sonarcloud.io/dashboard?id=theOval_Oval-UAA)
+[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=theOval_Oval-UAA&metric=bugs)](https://sonarcloud.io/dashboard?id=theOval_Oval-UAA)
+[![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=theOval_Oval-UAA&metric=code_smells)](https://sonarcloud.io/dashboard?id=theOval_Oval-UAA)
+[![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=theOval_Oval-UAA&metric=vulnerabilities)](https://sonarcloud.io/dashboard?id=theOval_Oval-UAA)
+[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=theOval_Oval-UAA&metric=security_rating)](https://sonarcloud.io/dashboard?id=theOval_Oval-UAA)
+[![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=theOval_Oval-UAA&metric=ncloc)](https://sonarcloud.io/dashboard?id=theOval_Oval-UAA)
+[![Technical Debt](https://sonarcloud.io/api/project_badges/measure?project=theOval_Oval-UAA&metric=sqale_index)](https://sonarcloud.io/dashboard?id=theOval_Oval-UAA)
+[![Duplicated Lines (%)](https://sonarcloud.io/api/project_badges/measure?project=theOval_Oval-UAA&metric=duplicated_lines_density)](https://sonarcloud.io/dashboard?id=theOval_Oval-UAA)
+
 # The Oval UAA
 
 This is a "uaa" application intended to be part of a micro-service architecture.
