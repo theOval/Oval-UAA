@@ -1,6 +1,6 @@
 # The Oval UAA
 
-This is a "uaa" application intended to be part of a microservice architecture.
+This is a "uaa" application intended to be part of a micro-service architecture.
 This is also a JHipster User Account and Authentication (UAA) Server.
 This application is configured for Service Discovery and Configuration with the JHipster-Registry. On launch, it will refuse to start if it is not able to connect to the JHipster-Registry at [http://localhost:8761](http://localhost:8761).
 
@@ -24,7 +24,6 @@ To ensure everything worked, run:
 
     java -jar target/*.jar
 
-Refer to [Using JHipster in production][] for more details.
 
 ### Packaging as war
 
@@ -38,7 +37,6 @@ To launch your application's tests, run:
 
     ./mvnw verify
 
-For more information, refer to the [Running tests page][].
 
 ## Code quality
 
@@ -83,4 +81,3 @@ Then run:
 
     docker-compose -f src/main/docker/app.yml up -d
 
-For more information refer to [Using Docker and Docker-Compose][], this page also contains information on the docker-compose sub-generator (`jhipster docker-compose`), which is able to generate docker configurations for one or several JHipster applications.
